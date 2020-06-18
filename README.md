@@ -10,3 +10,5 @@
 ![Accuracy2](https://github.com/jackfrost1411/machine-translation-english-to-hindi/blob/master/wordA.png)
 
 ![Loss2](https://github.com/jackfrost1411/machine-translation-english-to-hindi/blob/master/wordL.png)
+
+### English to Hindi Machine translation
