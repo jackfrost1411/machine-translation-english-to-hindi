@@ -1,5 +1,5 @@
 # Machine translation (English to Hindi) using the seq2seq model
-# *Head over to the article for tutorial: https://towardsdatascience.com/machine-translation-with-the-seq2seq-model-different-approaches-f078081aaa37*
+## *Head over to the article for tutorial: https://towardsdatascience.com/machine-translation-with-the-seq2seq-model-different-approaches-f078081aaa37*
 
 ## Plots of the accuracy and loss for character-level prediction
 ![Accuracy](https://github.com/jackfrost1411/machine-translation-english-to-hindi/blob/master/charA.png)
